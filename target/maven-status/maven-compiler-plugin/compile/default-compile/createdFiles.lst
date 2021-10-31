@@ -1,0 +1,6 @@
+ru/folder/repositories/UserRepositoryInterface.class
+ru/folder/repositories/UserRepositoryImpl.class
+ru/folder/HelloServlet/HelloServlet.class
+ru/folder/models/User.class
+ru/folder/fakeDB/FakeStorage.class
+ru/folder/servlets/SignUpServlet.class
